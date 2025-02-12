@@ -148,6 +148,13 @@
       "symbol": "BTC",
       "logoURI": "https://raw.githubusercontent.com/BangEdoSetiawan/Kontolodon-airdrop/907d5668adf1c621ab1b094e151e3d34a85058ac/converted_image.png",
       "decimals": 18
+    },
+    {
+      "chainId": 93384,
+      "address": "0x8b7bCF099c72F31F0559eEeCc7130c9a85bE89cB",
+      "name": "Tea USD",
+      "symbol": "USDT",
+      "decimals": 18
     }
   ],
   "version": {
