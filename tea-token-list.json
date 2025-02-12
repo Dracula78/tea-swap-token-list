@@ -151,6 +151,14 @@
     },
     {
       "chainId": 93384,
+      "address": "0x90f7C3F1043D595B88849Ca45b81763636Ac9dB9",
+      "name": "RS",
+      "symbol": "RS",
+      "logoURI": "https://pbs.twimg.com/profile_images/1579316161178914819/ryNAJ0hE_400x400.jpg",
+      "decimals": 18
+    },
+    {
+      "chainId": 93384,
       "address": "0x8b7bCF099c72F31F0559eEeCc7130c9a85bE89cB",
       "name": "Tea USD",
       "symbol": "USDT",
@@ -160,6 +168,6 @@
   "version": {
     "major": 3,
     "minor": 1,
-    "patch": 7
+    "patch": 9
   }
 }
