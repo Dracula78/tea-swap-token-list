@@ -5,7 +5,7 @@
     "tea",
     "defi"
   ],
-  "timestamp": "2024-01-19T20:37:00.000+00:00",
+  "timestamp": "2024-02-05T20:37:00.000+00:00",
   "tokens": [
     {
       "chainId": 93384,
@@ -14,12 +14,20 @@
       "symbol": "butt",
       "decimals": 18
     },
+  	{
+      "chainId": 93384,
+      "address": "0xdD777582C445f234d3E2C6c3B3a9dd1dDf3558F1",
+      "name": "Fresh Tea",
+      "symbol": "FTEA",
+      "logoURI": "https://raw.githubusercontent.com/whisnusanjaya/freshtea/refs/heads/main/freshtea.jpg",
+      "decimals": 18
+    },
     {
       "chainId": 93384,
       "address": "0x623769444c1BA04c55A4690bDD2955cD4f089bb7",
       "name": "Blurtopian",
       "symbol": "BLTPN",
-      "logoURI" "https://raw.githubusercontent.com/blurtopian/assets/refs/heads/main/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/blurtopian/assets/refs/heads/main/logo.png",
       "decimals": 18
     },
   	{
@@ -27,6 +35,7 @@
       "address": "0x1B54e5BBb545245f4c468929D64dAbb479aE055e",
       "name": "CLW",
       "symbol": "CLW",
+      "logoURI": "https://raw.githubusercontent.com/clwkevin/scroll-contributor/refs/heads/main/clwnew.png",
       "decimals": 18
     },
   	{
@@ -55,6 +64,7 @@
       "address": "0x2F3754Cb1F05fE6701C76603B1c69830347F5B3A",
       "name": "YERIM",
       "symbol": "YRM",
+      "logoURI": "https://raw.githubusercontent.com/furidngrt/EMV-Address/refs/heads/master/yrm.jpeg",
       "decimals": 18
     },
   	{
@@ -76,6 +86,7 @@
       "address": "0x90f7C3F1043D595B88849Ca45b81763636Ac9dB9",
       "name": "RS",
       "symbol": "RS",
+      "logoURI": "https://pbs.twimg.com/profile_images/1579316161178914819/ryNAJ0hE_400x400.jpg",
       "decimals": 18
     },
   	{
@@ -106,11 +117,74 @@
       "symbol": "AIT",
       "logoURI": "https://raw.githubusercontent.com/Amarudinn/logo/main/20250123_104815.png",
       "decimals": 18
+    },
+    {
+      "chainId": 93384,
+      "address": "0x19dab75B9D703f5a7e176CD08d5A29676aaB94fc",
+      "name": "MeowTea Token",
+      "symbol": "MTT",
+      "logoURI": "https://raw.githubusercontent.com/BangEdoSetiawan/Kontolodon-airdrop/main/20250204_042205_0000.png",
+      "decimals": 18
+    },
+    {
+      "chainId": 93384,
+      "address": "0x50dCB6e1f907632Fb145459faCE86E358c1Cfb0B",
+      "name": "Assam AI Alliance",
+      "symbol": "AAA",
+      "logoURI": "https://raw.githubusercontent.com/sufnoobzac/AAA/refs/heads/main/AAA.png",
+      "decimals": 18
+    },
+    {
+      "chainId": 93384,
+      "address": "0xB6FD54D9102422f8D167C82803f875CD914d08bB",
+      "name": "Gula",
+      "symbol": "GULA",
+      "logoURI": "https://raw.githubusercontent.com/Yunnie-pin/laporan-mbkm-generator/refs/heads/main/laporan-mbkm-generator/src/assets/gula-white.png",
+      "decimals": 18
+    },
+    {
+      "chainId": 93384,
+      "address": "0xC4341CB2C976306AE9169efb3d8301ea287a3128",
+      "name": "BITCOIN",
+      "symbol": "BTC",
+      "logoURI": "https://raw.githubusercontent.com/BangEdoSetiawan/Kontolodon-airdrop/907d5668adf1c621ab1b094e151e3d34a85058ac/converted_image.png",
+      "decimals": 18
+    },
+    {
+      "chainId": 93384,
+      "address": "0x9faE22428bBA5De88730e9C7Ccab79c8d1Ac34E5",
+      "name": "Tea USD",
+      "symbol": "USDT",
+      "decimals": 18
+    },
+    {
+      "chainId": 93384,
+      "address": "0xBD95Aea85f76289d7B2675A916E43748cd18C75d",
+      "name": "Daun Tea",
+      "symbol": "DAUN",
+      "logoURI": "https://raw.githubusercontent.com/Amarudinn/tea-assam/main/logo/daun.png",
+      "decimals": 18
+    },
+    {
+      "chainId": 93384,
+      "address": "0xb0724c7f2dE50E0d02eA7917CF878b44e28e8db2",
+      "name": "Tea Leaf",
+      "symbol": "LEAF",
+      "logoURI": "https://raw.githubusercontent.com/Amarudinn/tea-assam/main/logo/leaf.png",
+      "decimals": 18
+    },
+    {
+      "chainId": 93384,
+      "address": "0x2746384d957b0d935241Fd3A873AC9f80300E1D0",
+      "name": "Herbal Tea",
+      "symbol": "HRL",
+      "logoURI": "https://raw.githubusercontent.com/Amarudinn/tea-assam/main/logo/herbal.png",
+      "decimals": 18
     }
   ],
   "version": {
     "major": 3,
     "minor": 1,
-    "patch": 2
+    "patch": 11
   }
 }
