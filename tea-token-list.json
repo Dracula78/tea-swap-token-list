@@ -156,11 +156,35 @@
       "name": "Tea USD",
       "symbol": "USDT",
       "decimals": 18
+    },
+    {
+      "chainId": 93384,
+      "address": "0xBD95Aea85f76289d7B2675A916E43748cd18C75d",
+      "name": "Daun Tea",
+      "symbol": "DAUN",
+      "logoURI": "https://raw.githubusercontent.com/Amarudinn/tea-assam/main/logo/daun.png",
+      "decimals": 18
+    },
+    {
+      "chainId": 93384,
+      "address": "0xb0724c7f2dE50E0d02eA7917CF878b44e28e8db2",
+      "name": "Tea Leaf",
+      "symbol": "LEAF",
+      "logoURI": "https://raw.githubusercontent.com/Amarudinn/tea-assam/main/logo/leaf.png",
+      "decimals": 18
+    },
+    {
+      "chainId": 93384,
+      "address": "0x2746384d957b0d935241Fd3A873AC9f80300E1D0",
+      "name": "Herbal Tea",
+      "symbol": "HRL",
+      "logoURI": "https://raw.githubusercontent.com/Amarudinn/tea-assam/main/logo/herbal.png",
+      "decimals": 18
     }
   ],
   "version": {
     "major": 3,
     "minor": 1,
-    "patch": 11
+    "patch": 12
   }
 }
