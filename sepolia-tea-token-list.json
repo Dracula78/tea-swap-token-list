@@ -1,0 +1,23 @@
+{
+  "name": "Sepolia TEA",
+  "keywords": [
+    "sepolia",
+    "tea",
+    "defi"
+  ],
+  "timestamp": "2024-04-01T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 10218,
+      "address": "0xdf1aAdF0FdFb14Ae4Cbe9bF550E1716Ed901b41C",
+      "name": "NotAScam",
+      "symbol": "NSCM",
+      "decimals": 18
+    },
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
