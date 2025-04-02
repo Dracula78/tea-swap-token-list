@@ -1,7 +1,7 @@
 # Adding a Token to TeaSwap Token List
 ---
 
-Create a pull request with your new or updated token to tea-token-list.json.
+Create a pull request with your new or updated token to tea-token-list.json for assam or tea-token-list.json for sepolia.
 
 The JSON Schema conforms to Uniswap V2's token list schema https://uniswap.org/tokenlist.schema.json
 
@@ -12,7 +12,7 @@ TLDR: Fork this repo, add a json record that fits this to the tokens array in te
 
 ```js
 {
-  "chainId": 93384,
+  "chainId": 93384 for Assam, 10218 for Sepolia,
   "address": string /^0x[a-fA-F0-9]{40}$/,
   "name": string /^[ \S+]+$/,
   "symbol": string /^\S+$/,
