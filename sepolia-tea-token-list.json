@@ -5,7 +5,7 @@
     "tea",
     "defi"
   ],
-  "timestamp": "2024-04-02T01:01:00.000+00:00",
+  "timestamp": "2024-04-02T01:02:00.000+00:00",
   "tokens": [
     {
       "chainId": 10218,
@@ -15,7 +15,7 @@
       "decimals": 18
     },
     {
-      "chainId": 93384,
+      "chainId": 10218,
       "address": "0xb1885A41876ff1BcB107a80A352A800b3D394f6F",
       "name": "Daun Tea",
       "symbol": "DAUN",
@@ -23,7 +23,7 @@
       "decimals": 18
     },
     {
-      "chainId": 93384,
+      "chainId": 10218,
       "address": "0x0281e0e9Df9920E994051fC3798fd1565F6d28BF",
       "name": "Tea Leaf",
       "symbol": "LEAF",
@@ -31,7 +31,7 @@
       "decimals": 18
     },
     {
-      "chainId": 93384,
+      "chainId": 10218,
       "address": "0x7d7D20Ea5afb64Fc7beC15ba4670FF08B5E838b6",
       "name": "Herbal Tea",
       "symbol": "HBRL",
@@ -42,6 +42,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   }
 }
