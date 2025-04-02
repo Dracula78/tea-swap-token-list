@@ -5,7 +5,7 @@
     "tea",
     "defi"
   ],
-  "timestamp": "2024-04-01T21:37:00.000+00:00",
+  "timestamp": "2024-04-02T01:01:00.000+00:00",
   "tokens": [
     {
       "chainId": 10218,
@@ -13,11 +13,35 @@
       "name": "NotAScam",
       "symbol": "NSCM",
       "decimals": 18
+    },
+    {
+      "chainId": 93384,
+      "address": "0xb1885A41876ff1BcB107a80A352A800b3D394f6F",
+      "name": "Daun Tea",
+      "symbol": "DAUN",
+      "logoURI": "https://raw.githubusercontent.com/Amarudinn/tea-assam/main/logo/daun.png",
+      "decimals": 18
+    },
+    {
+      "chainId": 93384,
+      "address": "0x0281e0e9Df9920E994051fC3798fd1565F6d28BF",
+      "name": "Tea Leaf",
+      "symbol": "LEAF",
+      "logoURI": "https://raw.githubusercontent.com/Amarudinn/tea-assam/main/logo/leaf.png",
+      "decimals": 18
+    },
+    {
+      "chainId": 93384,
+      "address": "0x7d7D20Ea5afb64Fc7beC15ba4670FF08B5E838b6",
+      "name": "Herbal Tea",
+      "symbol": "HBRL",
+      "logoURI": "https://raw.githubusercontent.com/Amarudinn/tea-assam/main/logo/herbal.png",
+      "decimals": 18
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   }
 }
