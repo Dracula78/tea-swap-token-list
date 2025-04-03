@@ -16,6 +16,14 @@
     },
     {
       "chainId": 10218,
+      "address": "0xD89455C62BeC95820cE048fbE0f2Ae900F18A2DC",
+      "name": "Fresh Tea",
+      "symbol": "FTEA",
+      "logoURI": "https://raw.githubusercontent.com/whisnusanjaya/freshtea/refs/heads/main/freshtea.png",
+      "decimals": 18
+    },
+    {
+      "chainId": 10218,
       "address": "0xb1885A41876ff1BcB107a80A352A800b3D394f6F",
       "name": "Daun Tea",
       "symbol": "DAUN",
