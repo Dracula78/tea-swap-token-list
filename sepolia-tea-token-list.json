@@ -37,7 +37,15 @@
       "symbol": "HBRL",
       "logoURI": "https://raw.githubusercontent.com/Amarudinn/tea-assam/main/logo/herbal.png",
       "decimals": 18
-    }
+    },
+    {
+      "chainId": 10218,
+      "address": "0xdbCb51116b426F67a727dA75EE7119fb88D1069A",
+      "name": "AAA Token",
+      "symbol": "AAA",
+      "logoURI": "https://raw.githubusercontent.com/sufnoobzac/AAA/refs/heads/main/AAA.png",
+      "decimals": 18
+    },
   ],
   "version": {
     "major": 1,
