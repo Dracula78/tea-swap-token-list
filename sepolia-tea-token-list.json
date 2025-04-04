@@ -5,7 +5,7 @@
     "tea",
     "defi"
   ],
-  "timestamp": "2024-04-02T01:02:00.000+00:00",
+  "timestamp": "2024-04-03T01:02:00.000+00:00",
   "tokens": [
     {
       "chainId": 10218,
@@ -45,11 +45,11 @@
       "symbol": "AAA",
       "logoURI": "https://raw.githubusercontent.com/sufnoobzac/AAA/refs/heads/main/AAA.png",
       "decimals": 18
-    },
+    }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 3
+    "patch": 4
   }
 }
