@@ -5,13 +5,21 @@
     "tea",
     "defi"
   ],
-  "timestamp": "2024-04-03T01:02:00.000+00:00",
+  "timestamp": "2024-04-03T01:03:00.000+00:00",
   "tokens": [
     {
       "chainId": 10218,
       "address": "0xdf1aAdF0FdFb14Ae4Cbe9bF550E1716Ed901b41C",
       "name": "NotAScam",
       "symbol": "NSCM",
+      "decimals": 18
+    },
+    {
+      "chainId": 10218,
+      "address": "0xD89455C62BeC95820cE048fbE0f2Ae900F18A2DC",
+      "name": "Fresh Tea",
+      "symbol": "FTEA",
+      "logoURI": "https://raw.githubusercontent.com/whisnusanjaya/freshtea/refs/heads/main/freshtea.png",
       "decimals": 18
     },
     {
@@ -50,6 +58,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 4
+    "patch": 5
   }
 }
