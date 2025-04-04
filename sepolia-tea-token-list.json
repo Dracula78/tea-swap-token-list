@@ -5,7 +5,7 @@
     "tea",
     "defi"
   ],
-  "timestamp": "2024-04-02T01:02:00.000+00:00",
+  "timestamp": "2024-04-03T01:02:00.000+00:00",
   "tokens": [
     {
       "chainId": 10218,
@@ -37,11 +37,19 @@
       "symbol": "HBRL",
       "logoURI": "https://raw.githubusercontent.com/Amarudinn/tea-assam/main/logo/herbal.png",
       "decimals": 18
+    },
+    {
+      "chainId": 10218,
+      "address": "0xdbCb51116b426F67a727dA75EE7119fb88D1069A",
+      "name": "AAA Token",
+      "symbol": "AAA",
+      "logoURI": "https://raw.githubusercontent.com/sufnoobzac/AAA/refs/heads/main/AAA.png",
+      "decimals": 18
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 3
+    "patch": 4
   }
 }
