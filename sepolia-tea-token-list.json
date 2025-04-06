@@ -5,7 +5,7 @@
     "tea",
     "defi"
   ],
-  "timestamp": "2024-04-03T01:03:00.000+00:00",
+  "timestamp": "2024-04-05T01:04:00.000+00:00",
   "tokens": [
     {
       "chainId": 10218,
@@ -56,6 +56,22 @@
     },
     {
       "chainId": 10218,
+      "address": "0xE8976C1873dD34B1262f8096E63a95AdE4d88997",
+      "name": "Tea Anget",
+      "symbol": "TEAA",
+      "logoURI": "https://raw.githubusercontent.com/rudinn12/tea-sepolia/main/logo/tea-anget.png",
+      "decimals": 18
+    },
+    {
+      "chainId": 10218,
+      "address": "0xd2325fB82bb3122D9656D87F4aCF01e4D535d7Ea",
+      "name": "Matcha",
+      "symbol": "MATCHA",
+      "logoURI": "https://raw.githubusercontent.com/danielwpz/tea-matcha-token/main/matcha.png",
+      "decimals": 18
+    },
+    {
+      "chainId": 10218,
       "address": "0x5E5613bAEE77215c6781635e48E7fcc4B3d02790",
       "name": "Project Nomad",
       "symbol": "P0N",
@@ -66,6 +82,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 6
+    "patch": 7
   }
 }
