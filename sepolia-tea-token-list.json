@@ -5,7 +5,7 @@
     "tea",
     "defi"
   ],
-  "timestamp": "2024-04-03T01:03:00.000+00:00",
+  "timestamp": "2024-04-05T01:04:00.000+00:00",
   "tokens": [
     {
       "chainId": 10218,
@@ -69,11 +69,19 @@
       "symbol": "MATCHA",
       "logoURI": "https://raw.githubusercontent.com/danielwpz/tea-matcha-token/main/matcha.png",
       "decimals": 18
+    },
+    {
+      "chainId": 10218,
+      "address": "0x5E5613bAEE77215c6781635e48E7fcc4B3d02790",
+      "name": "Project Nomad",
+      "symbol": "P0N",
+      "logoURI": "https://raw.githubusercontent.com/0xGery/asset/323c35b973d8fd4a965d9447f68639bcd8eb7c61/NullxGery/P0N.png",
+      "decimals": 18
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 5
+    "patch": 7
   }
 }
