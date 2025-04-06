@@ -53,6 +53,14 @@
       "symbol": "AAA",
       "logoURI": "https://raw.githubusercontent.com/sufnoobzac/AAA/refs/heads/main/AAA.png",
       "decimals": 18
+    },
+    {
+      "chainId": 10218,
+      "address": "0xd2325fB82bb3122D9656D87F4aCF01e4D535d7Ea",
+      "name": "Matcha",
+      "symbol": "MATCHA",
+      "logoURI": "https://raw.githubusercontent.com/danielwpz/tea-matcha-token/main/matcha.png",
+      "decimals": 18
     }
   ],
   "version": {
