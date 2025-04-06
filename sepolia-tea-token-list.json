@@ -56,6 +56,14 @@
     },
     {
       "chainId": 10218,
+      "address": "0xE8976C1873dD34B1262f8096E63a95AdE4d88997",
+      "name": "Tea Anget",
+      "symbol": "TEAA",
+      "logoURI": "https://raw.githubusercontent.com/rudinn12/tea-sepolia/main/logo/tea-anget.png",
+      "decimals": 18
+    },
+    {
+      "chainId": 10218,
       "address": "0xd2325fB82bb3122D9656D87F4aCF01e4D535d7Ea",
       "name": "Matcha",
       "symbol": "MATCHA",
