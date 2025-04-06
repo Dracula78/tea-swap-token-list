@@ -77,6 +77,14 @@
       "symbol": "P0N",
       "logoURI": "https://raw.githubusercontent.com/0xGery/asset/323c35b973d8fd4a965d9447f68639bcd8eb7c61/NullxGery/P0N.png",
       "decimals": 18
+    },
+    {
+      "chainId": 10218,
+      "address": "0xbBb017586E75C465Cc52cBE4c6b2B71d4baED5c6",
+      "name": "Mommycoin",
+      "symbol": "MOM",
+      "logoURI": "https://raw.githubusercontent.com/SuciIndh/my-dapp/main/logo/mom.png",
+      "decimals": 18
     }
   ],
   "version": {
