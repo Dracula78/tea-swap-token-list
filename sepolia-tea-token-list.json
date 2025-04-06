@@ -77,6 +77,14 @@
       "symbol": "P0N",
       "logoURI": "https://raw.githubusercontent.com/0xGery/asset/323c35b973d8fd4a965d9447f68639bcd8eb7c61/NullxGery/P0N.png",
       "decimals": 18
+    },
+    {
+      "chainId": 10218,
+      "address": "0x8e7Ae8eb29FbF68fdEea6ef0daBEb2C9F7fAB366",
+      "name": "Candy",
+      "symbol": "CANDY",
+      "logoURI": "https://raw.githubusercontent.com/Warenbct/dapp-tea-sepolia/main/logo/candy.png",
+      "decimals": 18
     }
   ],
   "version": {
