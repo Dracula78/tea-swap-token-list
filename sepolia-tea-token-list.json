@@ -53,6 +53,14 @@
       "symbol": "AAA",
       "logoURI": "https://raw.githubusercontent.com/sufnoobzac/AAA/refs/heads/main/AAA.png",
       "decimals": 18
+    },
+    {
+      "chainId": 10218,
+      "address": "0xE8976C1873dD34B1262f8096E63a95AdE4d88997",
+      "name": "Tea Anget",
+      "symbol": "TEAA",
+      "logoURI": "https://raw.githubusercontent.com/rudinn12/tea-sepolia/main/logo/tea-anget.png",
+      "decimals": 18
     }
   ],
   "version": {
