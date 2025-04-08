@@ -1,6 +1,10 @@
 {
   "name": "Sepolia TEA",
-  "keywords": ["sepolia", "tea", "defi"],
+  "keywords": [
+    "sepolia",
+    "tea",
+    "defi"
+  ],
   "timestamp": "2024-04-05T01:04:00.000+00:00",
   "tokens": [
     {
