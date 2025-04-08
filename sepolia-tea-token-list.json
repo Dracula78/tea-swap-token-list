@@ -1,10 +1,6 @@
 {
   "name": "Sepolia TEA",
-  "keywords": [
-    "sepolia",
-    "tea",
-    "defi"
-  ],
+  "keywords": ["sepolia", "tea", "defi"],
   "timestamp": "2024-04-05T01:04:00.000+00:00",
   "tokens": [
     {
@@ -76,6 +72,30 @@
       "name": "Project Nomad",
       "symbol": "P0N",
       "logoURI": "https://raw.githubusercontent.com/0xGery/asset/323c35b973d8fd4a965d9447f68639bcd8eb7c61/NullxGery/P0N.png",
+      "decimals": 18
+    },
+    {
+      "chainId": 10218,
+      "address": "0x615a02020b4cd1171551e3379491B825315ce77B",
+      "name": "AssamBTC",
+      "symbol": "BTC",
+      "logoURI": "https://raw.githubusercontent.com/edosetiawan-xyz/Kontolodon-airdrop/main/AssamBTC.jpg",
+      "decimals": 18
+    },
+    {
+      "chainId": 10218,
+      "address": "0x2b3aBf76D9D2eD4Eb2975D5DBb6981B77DF06E5A",
+      "name": "MeowTea Token",
+      "symbol": "MTN",
+      "logoURI": "https://raw.githubusercontent.com/edosetiawan-xyz/Kontolodon-airdrop/main/MeowTeaToken.jpg",
+      "decimals": 18
+    },
+    {
+      "chainId": 10218,
+      "address": "0xE1b512683cb5c3d56D462dB326a6632EeEbb60BB",
+      "name": "TeaDogs Inu",
+      "symbol": "TGS",
+      "logoURI": "https://raw.githubusercontent.com/edosetiawan-xyz/Kontolodon-airdrop/main/TeaDogs%20INU.jpg",
       "decimals": 18
     }
   ],
