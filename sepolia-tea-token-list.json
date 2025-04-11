@@ -85,6 +85,38 @@
       "symbol": "MOM",
       "logoURI": "https://raw.githubusercontent.com/SuciIndh/my-dapp/main/logo/mom.png",
       "decimals": 18
+    },
+    {
+      "chainId": 10218,
+      "address": "0x09bA156Aaf3505d07b6F82872b35D75b7A7d5032",
+      "name": "sTEA Token",
+      "symbol": "sTEA",
+      "logoURI": "https://raw.githubusercontent.com/TeaGov/TeaGov/refs/heads/main/public/favicon.png",      
+      "decimals": 18
+    },
+    {
+      "chainId": 10218,
+      "address": "0x615a02020b4cd1171551e3379491B825315ce77B",
+      "name": "AssamBTC",
+      "symbol": "BTC",
+      "logoURI": "https://raw.githubusercontent.com/edosetiawan-xyz/Kontolodon-airdrop/main/AssamBTC.jpg",
+      "decimals": 18
+    },
+    {
+      "chainId": 10218,
+      "address": "0x2b3aBf76D9D2eD4Eb2975D5DBb6981B77DF06E5A",
+      "name": "MeowTea Token",
+      "symbol": "MTN",
+      "logoURI": "https://raw.githubusercontent.com/edosetiawan-xyz/Kontolodon-airdrop/main/MeowTeaToken.jpg",
+      "decimals": 18
+    },
+    {
+      "chainId": 10218,
+      "address": "0xE1b512683cb5c3d56D462dB326a6632EeEbb60BB",
+      "name": "TeaDogs Inu",
+      "symbol": "TGS",
+      "logoURI": "https://raw.githubusercontent.com/edosetiawan-xyz/Kontolodon-airdrop/main/TeaDogs%20INU.jpg",
+      "decimals": 18
     }
   ],
   "version": {
