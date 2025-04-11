@@ -5,7 +5,7 @@
     "tea",
     "defi"
   ],
-  "timestamp": "2024-04-05T01:04:00.000+00:00",
+  "timestamp": "2024-04-09T01:04:00.000+00:00",
   "tokens": [
     {
       "chainId": 10218,
@@ -80,6 +80,14 @@
     },
     {
       "chainId": 10218,
+      "address": "0x8e7Ae8eb29FbF68fdEea6ef0daBEb2C9F7fAB366",
+      "name": "Candy",
+      "symbol": "CANDY",
+      "logoURI": "https://raw.githubusercontent.com/Warenbct/dapp-tea-sepolia/main/logo/candy.png",
+      "decimals": 18
+    },
+    {
+      "chainId": 10218,
       "address": "0xbBb017586E75C465Cc52cBE4c6b2B71d4baED5c6",
       "name": "Mommycoin",
       "symbol": "MOM",
@@ -121,7 +129,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 0,
-    "patch": 7
+    "minor": 1,
+    "patch": 0
   }
 }
