@@ -125,6 +125,14 @@
       "symbol": "TGS",
       "logoURI": "https://raw.githubusercontent.com/edosetiawan-xyz/Kontolodon-airdrop/main/TeaDogs%20INU.jpg",
       "decimals": 18
+    },
+    {
+      "chainId": 10218,
+      "address": "0xF3b6ebeA3B46694a76e760B8970EFfC76Ee8b96A",
+      "name": "Diontea Token V1",
+      "symbol": "DTT1",
+      "logoURI": "https://raw.githubusercontent.com/onedionys/onedionys-smart-contract/refs/heads/main/diontea-favicon.png",
+      "decimals": 18
     }
   ],
   "version": {
