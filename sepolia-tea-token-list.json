@@ -5,8 +5,15 @@
     "tea",
     "defi"
   ],
-  "timestamp": "2024-04-12T01:00:00.000+00:00",
+  "timestamp": "2025-04-14T01:00:00.000+00:00",
   "tokens": [
+    {
+      "chainId": 10218,
+      "address": "0xCb05b9953dE4F317d6c30Ac2841EB6F6ce4626F6",
+      "name": "Point Of View",
+      "symbol": "Pov",
+      "decimals": 18
+    },
     {
       "chainId": 10218,
       "address": "0xdf1aAdF0FdFb14Ae4Cbe9bF550E1716Ed901b41C",
