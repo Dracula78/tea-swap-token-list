@@ -5,7 +5,7 @@
     "tea",
     "defi"
   ],
-  "timestamp": "2025-04-14T01:00:00.000+00:00",
+  "timestamp": "2025-04-17T01:00:00.000+00:00",
   "tokens": [
     {
       "chainId": 10218,
@@ -145,6 +145,6 @@
   "version": {
     "major": 1,
     "minor": 1,
-    "patch": 1
+    "patch": 2
   }
 }
